@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Help LA Heal",
-  description: "Help LA Heal",
+  description: "Creators, founders & entrepreneurs rebuilding LA, one initiative at a time. 🩵",
 };
 
 export default function RootLayout({
